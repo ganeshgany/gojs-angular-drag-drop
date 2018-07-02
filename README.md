@@ -3,7 +3,7 @@
 A simple angular component in which we create custom icons and can drag and drop them on to the canvas to make a work flow or flow chart with the links between the icons on the canvas. 
 
 ## Output Format
-![screenshot](/demo-img/demo-img.png)
+![screenshot](demo-img/demo-img.PNG)
 
 ## Getting Started
 Download the gojs angular drag and drop folder and install the required packages and run the application.
