@@ -1,28 +1,23 @@
-# MyApp
+# drag and drop in angular with gojs
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.2.
+A simple angular component in which we create custom icons and can drag and drop them on to the canvas to make a work flow or flow chart with the links between the icons on the canvas. 
 
-## Development server
+## Output Format
+![screenshot](/demo-img/demo-img.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Getting Started
+Download the gojs angular drag and drop folder and install the required packages and run the application.
 
-## Code scaffolding
+## Installing
+npm install
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Run server
+ng serve
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+## Adding gojs angular component to your Project
+Download the gojs angular component to your angular material project and include required components from angular material.
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-Before running the tests make sure you are serving the app via `ng serve`.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## How it works
+we can create our custom icons with in our code , which will appear on a palette at left side with our icons and then we can drag and drop these icons on to the canvas with links between the icons to make a flow chart or work flow, also we can extend this project to have some more things like adding data to the icons and saving the final result.
+tasks when completed.
